@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# musclefish
+__MACOSX/
+data/musclefish/
+musclefish.zip
+
